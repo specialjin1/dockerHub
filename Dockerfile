@@ -1,1 +1,1 @@
-FROM    registry2.cleve.re/base/clever-service
+FROM    python:3.4
